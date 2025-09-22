@@ -1,7 +1,13 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Welcome+to+my+profile!)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=00FF00&multiline=true&width=600&lines=Hey+there+👋;I'm+Kanhaiya+Kumar+Jha;AI+%26+Python+Learner;Open+Source+Contributor+🌍;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
 ## 🚀 Civil Engineer 
-<img width="192" height="192" alt="image" src="https://github.com/user-attachments/assets/cfb56d19-2af8-414c-99c1-20595e601de6" />
+
+
+
+
+
+
+![under_construction-animated](https://github.com/user-attachments/assets/30170e44-a5bf-49ce-ac24-79f30bff7129)
 
 ![Kanhaiya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kanhaiya957&bg_color=0d1117&color=00ff99&line=ff0055&point=ffffff&area=true&hide_border=true)
 
