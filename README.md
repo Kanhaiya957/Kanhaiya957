@@ -9,7 +9,6 @@
 
 
 
-![Kanhaiya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kanhaiya957&bg_color=0d1117&color=00ff99&line=ff0055&point=ffffff&area=true&hide_border=true)
 
 ![Profile views](https://komarev.com/ghpvc/?username=Kanhaiya957)
 
@@ -39,6 +38,7 @@
 ## 📊 GitHub Stats:
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kanhaiya&show_icons=true&theme=dark)
+![Kanhaiya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kanhaiya957&bg_color=0d1117&color=00ff99&line=ff0055&point=ffffff&area=true&hide_border=true)
 
 # <p align="center">Show some ❤ by starring ⭐ some of the repositories!</p>
 
