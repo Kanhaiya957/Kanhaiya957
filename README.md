@@ -1,6 +1,7 @@
 # Hi 👋, I'm Kanhaiya 
 
 ### 🚀 Civil Engineer 
+![Profile views](https://komarev.com/ghpvc/?username=Kanhaiya957)
 
 ## About Me
 
