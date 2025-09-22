@@ -1,3 +1,5 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Welcome+to+my+profile!)
+
 # Hi 👋, I'm Kanhaiya 
 
 ### 🚀 Civil Engineer 
@@ -31,3 +33,5 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kanhaiya&show_icons=true&theme=dark)
 
 # <p align="center">Show some ❤ by starring ⭐ some of the repositories!</p>
+
+
