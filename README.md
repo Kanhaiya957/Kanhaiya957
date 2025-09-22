@@ -25,3 +25,9 @@
 ![SAP-MM](https://img.shields.io/badge/SAP-MM-blue)
 ![SAP-SD](https://img.shields.io/badge/SAP-SD-blue)
 ![Ai&ChatGPT](https://img.shields.io/badge/Ai&ChatGPT-black)
+
+## GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kanhaiya&show_icons=true&theme=dark)
+
+# <p align="center">Show some ❤ by starring ⭐ some of the repositories!</p>
