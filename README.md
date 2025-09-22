@@ -7,7 +7,7 @@
 
 
 
-![under_construction-animated](https://github.com/user-attachments/assets/30170e44-a5bf-49ce-ac24-79f30bff7129)
+
 
 ![Kanhaiya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kanhaiya957&bg_color=0d1117&color=00ff99&line=ff0055&point=ffffff&area=true&hide_border=true)
 
