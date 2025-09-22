@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋, I'm Kanhaiya 
 
-<!--
-**Kanhaiya957/Kanhaiya957** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Civil Engineer 
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 I’ve completed *B.Tech in CE*
+- 🌱 Currently learning *Python, Etabs*
+- 💬 Ask me about *AutoCAD, Revit, Twinmotion*
+- 📫 Reach me: [jhak5271@gmail.com](mailto:jhak5271@gmail.com)
+
+## 🌐 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/kanhaiya21?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Instagram](https://img.shields.io/badge/Instagram-red)](https://www.instagram.com/_kanhaiya_kumar_01_?igsh=MWxhenN0bjZncDcwMA==)
+
+## 🛠 Software's and Tools:
+![AutoCAD](https://img.shields.io/badge/AutoCAD-red)
+![Revit](https://img.shields.io/badge/Revit-blue)
+![Twinmotion](https://img.shields.io/badge/Twinmotion-black)
+![V-Ray](https://img.shields.io/badge/V-Ray-black)
+![SketchUP](https://img.shields.io/badge/SketchUP-blUE)
+![Etabs](https://img.shields.io/badge/Etabs-blUE)
+![Python](https://img.shields.io/badge/Python-blUE)
