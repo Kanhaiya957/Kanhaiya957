@@ -2,15 +2,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=00FF00&multiline=true&width=600&lines=Hey+there+👋;I'm+Kanhaiya+Kumar+Jha;AI+%26+Python+Learner;Open+Source+Contributor+🌍;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
 ## 🚀 Civil Engineer 
 
-
-
-
-
-
-
-
-
 ![Profile views](https://komarev.com/ghpvc/?username=Kanhaiya957)
+
 
 ## About Me
 
